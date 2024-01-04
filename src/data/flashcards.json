@@ -1,0 +1,151 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "english": "apple",
+      "german": "Apfel",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "english": "tree",
+      "german": "Baum",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "english": "flower",
+      "german": "Blume",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "english": "car",
+      "german": "Auto",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "english": "sun",
+      "german": "Sonne",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "english": "house",
+      "german": "Haus",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "english": "river",
+      "german": "Fluss",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "english": "city",
+      "german": "Stadt",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "english": "book",
+      "german": "Buch",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "english": "cat",
+      "german": "Katze",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "english": "dog",
+      "german": "Hund",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "english": "bird",
+      "german": "Vogel",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "english": "computer",
+      "german": "Computer",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "english": "mountain",
+      "german": "Berg",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 15,
+      "english": "lake",
+      "german": "See",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "english": "ocean",
+      "german": "Ozean",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 17,
+      "english": "moon",
+      "german": "Mond",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 18,
+      "english": "star",
+      "german": "Stern",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 19,
+      "english": "cheese",
+      "german": "Käse",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "english": "bread",
+      "german": "Brot",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    },
+    {
+      "id": 21,
+      "english": "star",
+      "german": "Stern",
+      "status": "Want to Learn",
+      "lastModified": "2024-01-04T12:00:00Z"
+    }
+  ]
+}
